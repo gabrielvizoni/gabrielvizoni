@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/main/assets/header.svg" alt="Gabriel Vizoni" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gabriel%20Vizoni&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Do%20back%20office%20ao%20back%20end&descAlignY=55&descSize=18" width="100%" />
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/main/assets/subtitle.svg" alt="Aspiring Full Stack Developer" width="620" />
+<a href="https://github.com/gabrielvizoni">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Next.js%2C+React+e+Node.js;Autodidata+construindo+em+p%C3%BAblico;C%C3%B3digo+que+vai+rodar+pra+cliente+real" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -14,20 +14,10 @@
 <a href="mailto:gabrielvizoniaraujo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://www.twitch.tv/gvizonii">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-</a>
-<a href="https://www.instagram.com/gvizoni">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Maring%C3%A1%20--%20PR-11151C?style=for-the-badge&logo=googlemaps&logoColor=C4B5FD" alt="Maringá - PR" />
-<img src="https://komarev.com/ghpvc/?username=gabrielvizoni&style=for-the-badge&color=8B5CF6&label=VISITAS" alt="Visitas" />
+<img src="https://img.shields.io/badge/Maring%C3%A1%20--%20PR-1B1F23?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Maringá - PR" />
+<img src="https://komarev.com/ghpvc/?username=gabrielvizoni&style=for-the-badge&color=38BDF8&label=VISITAS" alt="Visitas" />
 
 </div>
-
 ---
 
 ## 🐍 A cobrinha comendo meus commits
