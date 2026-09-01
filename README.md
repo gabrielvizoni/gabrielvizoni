@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gabriel%20Vizoni&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Do%20back%20office%20ao%20back%20end&descAlignY=55&descSize=18" width="100%" />
+<img src="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/main/assets/header.svg" alt="Gabriel Vizoni" width="100%" />
 
-<a href="https://github.com/gabrielvizoni">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Next.js%2C+React+e+Node.js;Autodidata+construindo+em+p%C3%BAblico;C%C3%B3digo+que+vai+rodar+pra+cliente+real" alt="Typing SVG" />
-</a>
+<br/>
+
+<img src="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/main/assets/subtitle.svg" alt="Aspiring Full Stack Developer" width="620" />
 
 <br/>
 
@@ -14,8 +14,54 @@
 <a href="mailto:gabrielvizoniaraujo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<img src="https://img.shields.io/badge/Maring%C3%A1%20--%20PR-1B1F23?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Maringá - PR" />
-<img src="https://komarev.com/ghpvc/?username=gabrielvizoni&style=for-the-badge&color=38BDF8&label=VISITAS" alt="Visitas" />
+<a href="https://www.twitch.tv/gvizonii">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+</a>
+<a href="https://www.instagram.com/gvizoni">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Maring%C3%A1%20--%20PR-11151C?style=for-the-badge&logo=googlemaps&logoColor=C4B5FD" alt="Maringá - PR" />
+<img src="https://komarev.com/ghpvc/?username=gabrielvizoni&style=for-the-badge&color=8B5CF6&label=VISITAS" alt="Visitas" />
+
+</div>
+
+---
+
+## 🐍 A cobrinha comendo meus commits
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/output/snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+## 📊 GitHub em números
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielvizoni&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvizoni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=gabrielvizoni&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR" alt="Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gabrielvizoni&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Troféus" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielvizoni&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Gráfico de atividade" width="95%" />
 
 </div>
 
@@ -24,13 +70,13 @@
 ## 🧭 Sobre mim
 
 ```js
-const gabriel = {
-  local:      "Maringá, PR — Brasil",
-  atual:      "Analista de Back Office B2B na Vivo (Telefônica Brasil)",
-  estudando:  "Análise e Desenvolvimento de Sistemas @ Unicesumar (2027.2)",
-  aprendendo: ["Next.js App Router", "arquitetura de back-end", "segurança de aplicação"],
-  objetivo:   "primeira vaga formal como desenvolvedor",
-  método:     "aprender construindo — e entregar de verdade",
+const Gabriel = {
+  Local:      "Maringá, PR — Brasil",
+  Atual:      "Analista de Back Office B2B na Vivo (Telefônica Brasil)",
+  Estudando:  "Análise e Desenvolvimento de Sistemas @ Unicesumar (2027.2)",
+  Aprendendo: ["Next.js App Router", "arquitetura de back-end", "segurança de aplicação"],
+  Objetivo:   "Entregar projetos com a maior qualidade do meu alcance",
+  Método:     "Aprender construindo — e entregar de verdade",
 };
 ```
 
@@ -60,44 +106,13 @@ const gabriel = {
 - **Decisão de produto:** o cliente se identifica **pelo telefone**, sem cadastro. O dono da barbearia queria agendamento rápido e tinha medo de perder gente no formulário — e o telefone ainda serve pra limitar agendamentos repetidos.
 - **Segurança:** corrigi um CSRF real no fluxo de sessão, diagnostiquei um índice único que travava horários após soft delete e um caminho de DoS anônimo por falta de rate limit.
 
+<div align="center">
+
 <a href="https://github.com/gabrielvizoni/Barbosa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielvizoni&repo=Barbosa&theme=tokyonight&hide_border=true&border_radius=10" alt="Barbosa" />
+  <img src="https://img.shields.io/badge/Ver%20o%20reposit%C3%B3rio-11151C?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Repositório do Barbosa" />
 </a>
-
----
-
-## 📊 GitHub em números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielvizoni&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvizoni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=gabrielvizoni&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielvizoni&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Troféus" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielvizoni&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Gráfico de atividade" width="95%" />
-
-</div>
-
----
-
-## 🐍 A cobrinha comendo meus commits
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/output/snake.svg" width="100%" />
-</picture>
+<img src="https://img.shields.io/github/languages/top/gabrielvizoni/Barbosa?style=for-the-badge&color=8B5CF6&labelColor=11151C" alt="Linguagem principal" />
+<img src="https://img.shields.io/github/last-commit/gabrielvizoni/Barbosa?style=for-the-badge&color=8B5CF6&labelColor=11151C&label=%C3%BAltimo%20commit" alt="Último commit" />
 
 </div>
 
@@ -105,14 +120,19 @@ const gabriel = {
 
 <div align="center">
 
-### 💬 Bora conversar?
+## 💬 Bora conversar?
 
 Tô aberto a oportunidades como desenvolvedor, freela e projeto open source.
 
 <a href="https://www.linkedin.com/in/gabrielvizoniaraujo">
   <img src="https://img.shields.io/badge/Chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://www.twitch.tv/gvizonii">
+  <img src="https://img.shields.io/badge/Me%20assiste%20na%20Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/gabrielvizoni/gabrielvizoni/main/assets/footer.svg" alt="" width="100%" />
 
 </div>
