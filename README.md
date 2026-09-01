@@ -37,8 +37,6 @@ const gabriel = {
 - 🧱 **Autodidata.** Aprendi programando projeto de verdade, não só tutorial.
 - 🛡️ **Segurança é parte do trabalho.** Audito meu próprio código: CSRF, integridade de índices no banco, rate limiting.
 - 🔄 **Do administrativo pro dev.** Automatizo o que me incomoda no dia a dia — foi assim que nasceu minha extensão de triagem.
-- 🗣️ **Português nativo.** Inglês funcional para leitura técnica, em evolução para comunicação profissional.
-
 ---
 
 ## 🛠️ Stack
