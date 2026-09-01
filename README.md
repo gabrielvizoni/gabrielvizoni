@@ -36,7 +36,8 @@ const gabriel = {
 
 - 🧱 **Autodidata.** Aprendi programando projeto de verdade, não só tutorial.
 - 🛡️ **Segurança é parte do trabalho.** Audito meu próprio código: CSRF, integridade de índices no banco, rate limiting.
-- 🔄 **Do administrativo pro dev.** Automatizo o que me incomoda no dia a dia — foi assim que nasceu minha extensão de triagem.
+- 🔄 **Do administrativo pro dev.** Automatizo o que me incomoda no dia a dia — inclusive parte da minha própria rotina de trabalho.
+
 ---
 
 ## 🛠️ Stack
@@ -62,18 +63,6 @@ const gabriel = {
 <a href="https://github.com/gabrielvizoni/Barbosa">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielvizoni&repo=Barbosa&theme=tokyonight&hide_border=true&border_radius=10" alt="Barbosa" />
 </a>
-
-<details>
-<summary><b>📦 Outros projetos</b> (clique pra abrir)</summary>
-
-<br/>
-
-| Projeto | O que é | Stack |
-|---|---|---|
-| **VizzFinances** | Back-end de finanças pessoais, escrito duas vezes de propósito pra comparar ecossistemas | Node.js · Python/Flask |
-| **Extensão de triagem de pedidos** | Extensão de Chrome que automatiza a triagem que eu fazia na mão todo dia | JavaScript · Chrome APIs |
-
-</details>
 
 ---
 
