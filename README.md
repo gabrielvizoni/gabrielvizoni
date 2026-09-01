@@ -14,8 +14,15 @@
 <a href="mailto:gabrielvizoniaraujo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<img src="https://img.shields.io/badge/Maring%C3%A1%20--%20PR-1B1F23?style=for-the-badge&logo=googlemaps&logoColor=38BDF8" alt="Maringá - PR" />
-<img src="https://komarev.com/ghpvc/?username=gabrielvizoni&style=for-the-badge&color=38BDF8&label=VISITAS" alt="Visitas" />
+<a href="https://www.twitch.tv/gvizonii">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+</a>
+<a href="https://www.instagram.com/gvizoni">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<img src="https://img.shields.io/badge/Maring%C3%A1%20--%20PR-11151C?style=for-the-badge&logo=googlemaps&logoColor=C4B5FD" alt="Maringá - PR" />
+<img src="https://komarev.com/ghpvc/?username=gabrielvizoni&style=for-the-badge&color=8B5CF6&label=VISITAS" alt="Visitas" />
 
 </div>
 ---
