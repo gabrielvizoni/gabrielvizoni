@@ -48,20 +48,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielvizoni&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvizoni&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Linguagens" />
+<img src="https://streak-stats.demolab.com?user=gabrielvizoni&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6E7681" alt="Sequência de contribuições" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=gabrielvizoni&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gabrielvizoni&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="Troféus" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielvizoni&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Gráfico de atividade" width="95%" />
+<img src="https://img.shields.io/github/followers/gabrielvizoni?style=for-the-badge&label=seguidores&color=8B5CF6&labelColor=11151C&logo=github&logoColor=C4B5FD" alt="Seguidores" />
+<img src="https://img.shields.io/github/stars/gabrielvizoni?style=for-the-badge&label=estrelas&color=8B5CF6&labelColor=11151C&logo=github&logoColor=C4B5FD" alt="Estrelas" />
 
 </div>
 
