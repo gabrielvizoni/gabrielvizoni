@@ -63,12 +63,12 @@
   
   ```js
   const gabriel = {
-    local:      "Maringá, PR — Brasil",
+    local:      "Maringá, PR, Brasil",
     atual:      "Analista de Back Office B2B na Vivo (Telefônica Brasil)",
     estudando:  "Análise e Desenvolvimento de Sistemas - Unicesumar (Conclusão prevista - 2028)",
     aprendendo: ["Next.js App Router", "arquitetura de back-end", "segurança de aplicação"],
     objetivo:   "primeira vaga formal como desenvolvedor",
-    método:     "aprender construindo — e entregar de verdade",
+    método:     "aprender construindo e entregar de verdade",
   };
   ```
   
@@ -95,9 +95,9 @@
 
 > Site público que vende landing pages e um painel que cuida de leads, propostas, pedidos, cobranças e caixa. Projeto em desenvolvimento.
 
-- **Stack:** Next.js 16 (App Router) · React 19 · TypeScript · Tailwind v4. Pagamentos com Asaas e dados no Supabase (Postgres + Auth) — em integração.
+- **Stack:** Next.js 16 (App Router) · React 19 · TypeScript · Tailwind v4. Pagamentos com Asaas e dados no Supabase (Postgres + Auth), em integração.
 - **Discovery antes do código:** requisitos, regras de negócio, modelo de dados, máquinas de estado de pedido e de cobrança, contratos de API e 9 ADRs, tudo versionado em `docs/`.
-- **Arquitetura do financeiro:** uma única tabela de lançamentos para fechar o saldo somando uma coisa só, valores sempre em centavos e o webhook do gateway como fonte da verdade do pagamento — idempotente e com auditoria de eventos.
+- **Arquitetura do financeiro:** uma única tabela de lançamentos para fechar o saldo somando uma coisa só, valores sempre em centavos e o webhook do gateway como fonte da verdade do pagamento, com auditoria de eventos.
 - **Conversão:** checkout como convidado, sem cadastro antes de pagar, e proposta sob medida por link público quando o escopo não cabe num pacote fechado.
 
 <div align="center">
