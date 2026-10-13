@@ -65,7 +65,7 @@
   const gabriel = {
     local:      "Maringá, PR — Brasil",
     atual:      "Analista de Back Office B2B na Vivo (Telefônica Brasil)",
-    estudando:  "Análise e Desenvolvimento de Sistemas @ Unicesumar (2027.2)",
+    estudando:  "Análise e Desenvolvimento de Sistemas - Unicesumar (Conclusão prevista - 2028)",
     aprendendo: ["Next.js App Router", "arquitetura de back-end", "segurança de aplicação"],
     objetivo:   "primeira vaga formal como desenvolvedor",
     método:     "aprender construindo — e entregar de verdade",
