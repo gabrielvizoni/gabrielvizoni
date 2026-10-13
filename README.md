@@ -72,9 +72,9 @@
   };
   ```
   
-  - 🧱 **Autodidata.** Aprendi programando projeto de verdade, não só tutorial.
-  - 🛡️ **Segurança é parte do trabalho.** Audito meu próprio código: CSRF, integridade de índices no banco, rate limiting.
-  - 🔄 **Do administrativo pro dev.** Automatizo o que me incomoda no dia a dia — inclusive parte da minha própria rotina de trabalho.
+  - 🧱 **Autodidata.** Grande parte das minhas skills vem de videos do youtube!
+  - 🛡️ **Cuidados** Priorizo sempre a segurança de dados.
+  - 🔄 **ADM para DEV** Tento sempre automatizar processos que demandam tempo demais, inclusive parte da minha própria rotina de trabalho.
   - 🗣️ **Português nativo.** Inglês funcional para leitura técnica, em evolução para comunicação profissional.
   
   ---
@@ -112,11 +112,11 @@
   
   ### ✂️ Barbosa — plataforma de gestão para barbearia
   
-  > Sistema full-stack de agendamento que **vai ser entregue a um cliente real**, não só portfólio.
+  > Sistema full-stack de agendamento que **ainda em produção**.
   
-  - **Stack:** Next.js 14 (App Router) · React 18 · better-sqlite3 — sem ORM, sem lib de auth, feito na mão pra entender cada camada.
-  - **Decisão de produto:** o cliente se identifica **pelo telefone**, sem cadastro. O dono da barbearia queria agendamento rápido e tinha medo de perder gente no formulário — e o telefone ainda serve pra limitar agendamentos repetidos.
-  - **Segurança:** corrigi um CSRF real no fluxo de sessão, diagnostiquei um índice único que travava horários após soft delete e um caminho de DoS anônimo por falta de rate limit.
+  - **Stack:** Next.js 14 (App Router) · React 18 · better-sqlite3.
+  - **Decisão de produto:** o cliente se identifica **pelo telefone**, sem cadastro.
+  - **Segurança:** correção em um CSRF no fluxo de sessão, achado em um índice único que travava horários após soft delete e um caminho de DoS anônimo por falta de rate limit.
   
   <div align="center">
   
@@ -134,7 +134,7 @@
   
   ## 💬 Bora conversar?
   
-  Tô aberto a oportunidades como desenvolvedor, freela e projeto open source.
+  Tô aberto a oportunidades como desenvolvedor e estágios!
   
   <a href="https://www.linkedin.com/in/gabrielvizoniaraujo">
     <img src="https://img.shields.io/badge/Chama%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
