@@ -63,19 +63,19 @@
   
   ```js
   const gabriel = {
-    local:      "Maringá, PR, Brasil",
-    atual:      "Analista de Back Office B2B na Vivo (Telefônica Brasil)",
-    estudando:  "Análise e Desenvolvimento de Sistemas - Unicesumar (Conclusão prevista - 2028)",
-    aprendendo: ["Next.js App Router", "arquitetura de back-end", "segurança de aplicação"],
-    objetivo:   "primeira vaga formal como desenvolvedor",
-    método:     "aprender construindo e entregar de verdade",
+    Local:      "Maringá, PR, Brasil",
+    Atual:      "Analista de Back Office B2B na Vivo (Telefônica Brasil)",
+    Estudando:  "Análise e Desenvolvimento de Sistemas - Unicesumar (Conclusão prevista - 2028)",
+    Aprendendo: "Next.js App Router", "arquitetura de back-end", "segurança de aplicação",
+    Objetivo:   "Primeira vaga formal como desenvolvedor",
+    Método:     "Aprender construindo e entregar de verdade",
   };
   ```
   
-  - 🧱 **Autodidata.** Grande parte das minhas skills vem de videos do youtube!
-  - 🛡️ **Cuidados** Priorizo sempre a segurança de dados.
-  - 🔄 **ADM para DEV** Tento sempre automatizar processos que demandam tempo demais, inclusive parte da minha própria rotina de trabalho.
-  - 🗣️ **Português nativo.** Inglês funcional para leitura técnica, em evolução para comunicação profissional.
+  - 🧱 **Autodidata:** Grande parte das minhas skills vem de videos do youtube!
+  - 🛡️ **Cuidados:** Priorizo sempre a segurança de dados.
+  - 🔄 **ADM para DEV:** Tento sempre automatizar processos que demandam tempo demais, inclusive parte da minha própria rotina de trabalho.
+  - 🗣️ **Português nativo:** Inglês funcional para leitura técnica, em evolução para comunicação profissional.
   
   ---
   
